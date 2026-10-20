@@ -6,4 +6,4 @@
 
 ## Docker compose
 
-- docker compose -f compose.yaml up 
+- docker compose up 

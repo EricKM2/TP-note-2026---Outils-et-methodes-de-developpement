@@ -4,6 +4,6 @@
 
 - docker pull redocly/cli
 
-## Run index.html avec redocly/cli :
+## Docker compose
 
-- docker run --rm -v $PWD:/spec redocly/cli lint openapi.yaml
+- docker compose -f compose.yaml up 
